@@ -19,6 +19,7 @@ The SDL version could enforce pool table rules and a simple menu system, but it 
 To compile & run the demo : 
 
 ```
+mkdir Build
 cd ./Build
 cmake ..
 make
