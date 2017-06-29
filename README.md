@@ -18,10 +18,12 @@ The SDL version could enforce pool table rules and a simple menu system, but it 
 
 To compile & run the demo : 
 
+```
 cd ./Build
 cmake ..
 make
 ./2DEngine
+```
 
 (Require OPENCV and Cmake)
 
