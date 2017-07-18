@@ -12,11 +12,11 @@
 
 ![alt text](./DEMO/DEMO_8.gif)
 
-This program was originally made to run with SDL on Windows, and was adapted to use OPENCV. 
-This is a simple physics engine that manages a few kinds of collisions mainly involving circular shapes. As a demo, a pool table was made to show its capabilities. 
-The SDL version could enforce pool table rules and a simple menu system, but it is not adapted for OPENCV yet.
+This program was originally made to run with SDL on Windows, and was adapted to use OPENCV.  
+This is a simple physics engine that manages a few kinds of collisions mainly involving circular shapes. As a demo, a pool table was made to show its capabilities.  
+The SDL version could enforce pool table rules and a simple menu system, but it is not adapted for OPENCV yet.  
 
-To compile & run the demo : 
+To compile & run the demo :  
 
 ```
 mkdir Build
@@ -26,5 +26,4 @@ make
 ./2DEngine
 ```
 
-(Require OPENCV and Cmake)
-
+(The demo requires OPENCV and Cmake)  
